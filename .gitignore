@@ -1,0 +1,5 @@
+checkpoints/
+outputs*/
+gradio*/
+pointnet2_ops_lib
+*_rgba.*

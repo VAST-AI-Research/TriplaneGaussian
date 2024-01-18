@@ -1,0 +1,12 @@
+plyfile
+OmegaConf
+matplotlib
+einops
+gradio
+diffusers==0.19.3
+transformers==4.34.1
+rembg
+segment_anything
+jaxtyping
+imageio
+imageio-ffmpeg
