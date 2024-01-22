@@ -42,7 +42,7 @@ https://github.com/VAST-AI-Research/TriplaneGaussian/assets/25632410/1efe39d4-fc
 
 ### Colab Demo
 
-Run TGS in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+Run TGS in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VAST-AI-Research/TriplaneGaussian/blob/main/tgs.ipynb)
 
 ### Installation
 - Python >= 3.8
